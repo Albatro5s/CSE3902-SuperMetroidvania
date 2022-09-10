@@ -4,6 +4,8 @@
 **PROGRAM DESCRIPTION**
 
 This program is a clone of the original *Metroid NES* first mini-boss hideout. The player character, Samus, is able to move around and use her beam cannon, missile rockets, and bombs to combat enemies while exploring. Samus can pickup items and upgrades that augment her ability to fight.
+
+![super-metroidvania-sample](https://user-images.githubusercontent.com/49098697/189496122-3fb9091a-3e27-4670-aa7a-7a9da9a94cf9.png)
 ___
 **PROGRAM CONTROLS**
 
